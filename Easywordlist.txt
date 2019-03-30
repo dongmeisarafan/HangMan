@@ -1,0 +1,12 @@
+cat
+Swing
+Paper
+rocket
+Blue
+Red
+Wheel
+Cup
+Balloon
+Blue
+Poster
+Window
